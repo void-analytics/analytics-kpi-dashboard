@@ -43,5 +43,3 @@
 
 • Data Cleaning & Transformation
 
-
-![Dashboard Screenshot](./sales-data.png)
